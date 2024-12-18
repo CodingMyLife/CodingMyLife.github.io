@@ -14,7 +14,7 @@ name                     : &name "Falong Tan"
 description              : &description "Professor in the department of Statistics at Hunan University"
 url                      : https://falongtan.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "codingMyLife/codingMyLife.github.io"
+repository               : "codingmyLife.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
