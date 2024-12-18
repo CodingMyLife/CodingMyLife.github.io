@@ -12,7 +12,7 @@ title                    : "Falong Tan"
 title_separator          : "-"
 name                     : &name "Falong Tan"
 description              : &description "Professor in the department of Statistics at Hunan University"
-url                      : https://falongtan.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://codingmylife.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "codingmylife.github.io"
 
