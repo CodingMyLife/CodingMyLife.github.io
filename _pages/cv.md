@@ -21,7 +21,7 @@ Work experience
 ======
 * Fall 2023:  Professor in Hunan University
 * Fall 2018:  Associate Professor in Hunan University
-
+* Fall 2007-2014: Assistant Professor Huangshan University
 
 Publications
 ======
