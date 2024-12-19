@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2021-02-17-spectral-spatial-classification
 excerpt: 'he functional principal component analysis (FPCA) method can effectively solve the problems of the high dimensionality of data, large information redundancy, and noise interference in hyperspectral image (HSI) classification. However, this unsupervised FPCA cannot make full use of the label information of training samples or spatial information, so that it is impossible to obtain satisfactory classification results. In this letter, a set of improved FPCA methods for HSI classification are proposed'
 date: 2021-02-17
-venue: 'GitHub Journal of Bugs'
+venue: 'IEEE Geoscience and Remote Sensing Letters'
 paperurl: 'https://ieeexplore.ieee.org/document/9469920'
 citation: 'Xue, Feng, et al. Spectral-spatial classification of hyperspectral image using improved functional principal component analysis. IEEE Geoscience and Remote Sensing Letters 19 (2021): 1-5.'
 ---
