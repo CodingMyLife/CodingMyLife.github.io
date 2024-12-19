@@ -3,9 +3,9 @@ title: "Multiple change point detection for high-dimensional data"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-03-19-multiple-change-point
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt: 'This research investigates the detection of multiple change points in high-dimensional data without particular sparse or dense structure, where the dimension can be of exponential order in relation to the sample size.'
 date: 2024-03-19
-venue: 'GitHub Journal of Bugs'
+venue: 'TEST'
 paperurl: 'https://www.researchgate.net/publication/379274233_Multiple_change_point_detection_for_high-dimensional_data'
 citation: 'Zhao, Wenbiao, Lixing Zhu, and Falong Tan. "Multiple change point detection for high-dimensional data." TEST (2024): 1-38.'
 ---
