@@ -6,7 +6,7 @@ permalink: /publication/2024-12-15-model-checking-hd-grp
 excerpt: 'we proposed a new goodness of fit test based on random projections for generalized linear models, when the dimension of covariates may substantially exceed the sample size'
 date: 2024-12-15
 venue: 'arxiv'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://arxiv.org/pdf/2412.10721'
 citation: 'Chen, Wen, et al. Model checking for high dimensional generalized linear models based on random projections. arXiv preprint arXiv:2412.10721 (2024).'
 ---
 
